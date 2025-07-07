@@ -4,7 +4,7 @@ const BRANCH    = 'main';
 const FILE_PATH = 'content.json';
 
 /* hashed admin password (SHA‑256 of: mySuperPassword)  */
-const ADMIN_HASH = '6b1bb5ec861b3d0099ee3823d79ae58ce1a10678249dfac5c1de8f493b6ef464';
+const ADMIN_HASH = '825668d50b08bbc359bb8c4213d40a5c3718a42571648f9cce77e7abe592fea2';
 
 /* ========= RUNTIME ========= */
 const editBtn   = document.getElementById('editBtn');
